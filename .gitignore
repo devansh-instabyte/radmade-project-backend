@@ -15,4 +15,4 @@ backend/bootstrap/cache
 # Common
 .DS_Store
 Thumbs.db
-*.zip
+
